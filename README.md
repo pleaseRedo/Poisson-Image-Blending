@@ -9,13 +9,21 @@ task1 : region smoothing
 
 
 task2a : seamless cloning by importing gradient
+
+
 task2b : seamless cloning by mixing gradient
+
+
 task3  : RGB version for mixing gradient
+
+
 task5  : local colour changes
 
 
 With all of above provided, we can have an nearly seameless image blending effect:
+
 ![before](https://github.com/pleaseRedo/Poisson-Image-Blending/blob/master/Poisson%20Image%20Editing/trump.jpg)
+
 ![before](https://github.com/pleaseRedo/Poisson-Image-Blending/blob/master/Poisson%20Image%20Editing/lisa.jpg)
 
 
